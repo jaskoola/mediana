@@ -1,13 +1,13 @@
-# Program do obliczania mediany ze strumienia nieuporz¹dkowanych liczb ca³kowitych
+# Program do obliczania mediany ze strumienia nieuporzadkowanych liczb ca³kowitych
 
-MedianMap.exe
-Pierwszy algorytm. ZLozonosc obliczeniowa O(n2)
+##MedianMap.exe
+Pierwszy algorytm. Zlozonosc obliczeniowa O(n2)
 
-MedianMapV2.exe
-Drugi algorytm. ZLozonosc obliczeniowa O(log n)
+##MedianMapV2.exe
+Drugi algorytm. Zlozonosc obliczeniowa O(log n)
 
-Budowanie:
+##Budowanie:
 *make all*
 
-Budowanie testów:
+##Budowanie testów:
 *make test* 
